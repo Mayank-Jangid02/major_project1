@@ -1,0 +1,124 @@
+[
+  {
+    "_id": "id_90ng1r694",
+    "createdAt": "2026-09-24T09:51:23.825Z",
+    "updatedAt": "2026-09-24T09:51:23.825Z",
+    "name": "Alex Johnson",
+    "email": "student@example.com",
+    "password": "$2a$10$YFM4TGugiHQBq5/AJLS9fuIDMHyqPLE2rDNcYURvyUCjTvLSXy9gO",
+    "role": "student",
+    "education": {
+      "degree": "B.Tech",
+      "branch": "Computer Science",
+      "year": "3rd Year",
+      "cgpa": 8.4,
+      "gradYear": "2026",
+      "college": "National Institute of Technology"
+    },
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Intermediate",
+        "score": 75
+      },
+      {
+        "name": "React",
+        "level": "Intermediate",
+        "score": 70
+      },
+      {
+        "name": "SQL",
+        "level": "Beginner",
+        "score": 45
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "level": "Intermediate",
+        "score": 65
+      },
+      {
+        "name": "Python",
+        "level": "Beginner",
+        "score": 50
+      },
+      {
+        "name": "Communication",
+        "level": "Advanced",
+        "score": 85
+      }
+    ],
+    "interests": [
+      "Software Development",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "careerGoals": {
+      "preferredCareer": "Full Stack Software Developer",
+      "industry": "FinTech / SaaS",
+      "preferredRole": "Frontend / Full Stack Engineer",
+      "expectedSalary": "12,000,000 INR",
+      "preferredLocation": "Bengaluru / Remote",
+      "higherStudies": "No",
+      "remotePreference": "Hybrid"
+    },
+    "assessmentResults": {
+      "score": 78,
+      "completedAt": "2026-09-24T09:51:23.825Z"
+    },
+    "progress": {
+      "completedCourses": [
+        "Modern React 18 & Redux Toolkit Complete Guide"
+      ],
+      "completedSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "streakDays": 14,
+      "hoursSpent": 48,
+      "monthlyProgress": [
+        {
+          "month": "Nov",
+          "score": 42
+        },
+        {
+          "month": "Dec",
+          "score": 58
+        },
+        {
+          "month": "Jan",
+          "score": 71
+        },
+        {
+          "month": "Feb",
+          "score": 78
+        }
+      ]
+    },
+    "projects": [
+      {
+        "title": "E-Commerce Platform",
+        "description": "Full stack shopping cart with React & Node",
+        "techStack": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "id_eglis1ukz",
+    "createdAt": "2026-09-24T09:51:23.829Z",
+    "updatedAt": "2026-09-24T09:51:23.829Z",
+    "name": "CareerPath Admin",
+    "email": "admin@careerpath.ai",
+    "password": "$2a$10$YFM4TGugiHQBq5/AJLS9fuIDMHyqPLE2rDNcYURvyUCjTvLSXy9gO",
+    "role": "admin",
+    "education": {
+      "degree": "M.Tech",
+      "branch": "Computer Science",
+      "year": "Graduated"
+    }
+  }
+]

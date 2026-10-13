@@ -1,0 +1,322 @@
+[
+  {
+    "_id": "id_mjj6n70k0",
+    "createdAt": "2026-09-24T09:51:23.701Z",
+    "updatedAt": "2026-09-24T09:51:23.701Z",
+    "id": "crs_react_mastery",
+    "title": "Modern React 18 & Redux Toolkit Complete Guide",
+    "platform": "Udemy",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Redux"
+    ],
+    "level": "Intermediate",
+    "duration": "42 hours",
+    "rating": 4.8,
+    "priceType": "Paid",
+    "url": "https://udemy.com",
+    "careerCategory": "Software Development",
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_yf2x5hrgn",
+    "createdAt": "2026-09-24T09:51:23.704Z",
+    "updatedAt": "2026-09-24T09:51:23.704Z",
+    "id": "crs_dsa_java",
+    "title": "Data Structures & Algorithms Bootcamp: Zero to Hero",
+    "platform": "Coursera",
+    "skills": [
+      "Data Structures & Algorithms",
+      "Problem Solving",
+      "Java"
+    ],
+    "level": "Beginner",
+    "duration": "60 hours",
+    "rating": 4.9,
+    "priceType": "Free",
+    "url": "https://coursera.org",
+    "careerCategory": "Software Development",
+    "thumbnail": "https://images.unsplash.com/photo-1516116211223-4c7141940984?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_s0wmgn605",
+    "createdAt": "2026-09-24T09:51:23.707Z",
+    "updatedAt": "2026-09-24T09:51:23.707Z",
+    "id": "crs_sql_data",
+    "title": "The Complete SQL & Database Mastery for Data Analytics",
+    "platform": "edX",
+    "skills": [
+      "SQL",
+      "Data Analytics",
+      "PostgreSQL"
+    ],
+    "level": "Beginner",
+    "duration": "25 hours",
+    "rating": 4.7,
+    "priceType": "Free",
+    "url": "https://edx.org",
+    "careerCategory": "Data Science & Analytics",
+    "thumbnail": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_cg3m31px2",
+    "createdAt": "2026-09-24T09:51:23.711Z",
+    "updatedAt": "2026-09-24T09:51:23.711Z",
+    "id": "crs_python_data",
+    "title": "Python for Data Science, Machine Learning & Analytics",
+    "platform": "Coursera",
+    "skills": [
+      "Python",
+      "Data Analytics",
+      "Machine Learning"
+    ],
+    "level": "Intermediate",
+    "duration": "35 hours",
+    "rating": 4.9,
+    "priceType": "Paid",
+    "url": "https://coursera.org",
+    "careerCategory": "Data Science & Analytics",
+    "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_qeyxhl0zg",
+    "createdAt": "2026-09-24T09:51:23.714Z",
+    "updatedAt": "2026-09-24T09:51:23.714Z",
+    "id": "crs_aws_devops",
+    "title": "AWS Certified Solutions Architect & Docker DevOps",
+    "platform": "Udemy",
+    "skills": [
+      "Cloud Computing (AWS/Azure)",
+      "Docker & Kubernetes",
+      "CI/CD Pipelines"
+    ],
+    "level": "Intermediate",
+    "duration": "48 hours",
+    "rating": 4.8,
+    "priceType": "Paid",
+    "url": "https://udemy.com",
+    "careerCategory": "Cloud Infrastructure",
+    "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_1qxad5vym",
+    "createdAt": "2026-09-24T09:51:23.718Z",
+    "updatedAt": "2026-09-24T09:51:23.718Z",
+    "id": "crs_deeplearning",
+    "title": "Deep Learning Specialization by Andrew Ng",
+    "platform": "Coursera",
+    "skills": [
+      "Machine Learning",
+      "PyTorch / TensorFlow",
+      "Python"
+    ],
+    "level": "Advanced",
+    "duration": "80 hours",
+    "rating": 4.95,
+    "priceType": "Free",
+    "url": "https://coursera.org",
+    "careerCategory": "Artificial Intelligence",
+    "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_be1mjzrth",
+    "createdAt": "2026-09-24T09:51:23.721Z",
+    "updatedAt": "2026-09-24T09:51:23.721Z",
+    "id": "crs_figma_uiux",
+    "title": "Figma UI/UX Design Essentials & Prototype Systems",
+    "platform": "YouTube",
+    "skills": [
+      "Figma / Wireframing",
+      "Design Systems",
+      "User Research & Testing"
+    ],
+    "level": "Beginner",
+    "duration": "18 hours",
+    "rating": 4.85,
+    "priceType": "Free",
+    "url": "https://youtube.com",
+    "careerCategory": "Design & User Experience",
+    "thumbnail": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_kpda37hsk",
+    "createdAt": "2026-09-24T09:51:23.726Z",
+    "updatedAt": "2026-09-24T09:51:23.726Z",
+    "id": "crs_product_mgmt",
+    "title": "Become a Product Manager | Learn the Skills & Get the Job",
+    "platform": "Udemy",
+    "skills": [
+      "Product Management",
+      "Agile & Scrum",
+      "Leadership"
+    ],
+    "level": "Intermediate",
+    "duration": "22 hours",
+    "rating": 4.75,
+    "priceType": "Paid",
+    "url": "https://udemy.com",
+    "careerCategory": "Product & Strategy",
+    "thumbnail": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_7ot3gxh92",
+    "createdAt": "2026-10-13T16:54:29.903Z",
+    "updatedAt": "2026-10-13T16:54:29.903Z",
+    "id": "crs_react_mastery",
+    "title": "Modern React 18 & Redux Toolkit Complete Guide",
+    "platform": "Udemy",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Redux"
+    ],
+    "level": "Intermediate",
+    "duration": "42 hours",
+    "rating": 4.8,
+    "priceType": "Paid",
+    "url": "https://udemy.com",
+    "careerCategory": "Software Development",
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_4xq3pwu76",
+    "createdAt": "2026-10-13T16:54:29.905Z",
+    "updatedAt": "2026-10-13T16:54:29.905Z",
+    "id": "crs_dsa_java",
+    "title": "Data Structures & Algorithms Bootcamp: Zero to Hero",
+    "platform": "Coursera",
+    "skills": [
+      "Data Structures & Algorithms",
+      "Problem Solving",
+      "Java"
+    ],
+    "level": "Beginner",
+    "duration": "60 hours",
+    "rating": 4.9,
+    "priceType": "Free",
+    "url": "https://coursera.org",
+    "careerCategory": "Software Development",
+    "thumbnail": "https://images.unsplash.com/photo-1516116211223-4c7141940984?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_hh3zo6vpc",
+    "createdAt": "2026-10-13T16:54:29.907Z",
+    "updatedAt": "2026-10-13T16:54:29.907Z",
+    "id": "crs_sql_data",
+    "title": "The Complete SQL & Database Mastery for Data Analytics",
+    "platform": "edX",
+    "skills": [
+      "SQL",
+      "Data Analytics",
+      "PostgreSQL"
+    ],
+    "level": "Beginner",
+    "duration": "25 hours",
+    "rating": 4.7,
+    "priceType": "Free",
+    "url": "https://edx.org",
+    "careerCategory": "Data Science & Analytics",
+    "thumbnail": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_toxizw4vn",
+    "createdAt": "2026-10-13T16:54:29.910Z",
+    "updatedAt": "2026-10-13T16:54:29.910Z",
+    "id": "crs_python_data",
+    "title": "Python for Data Science, Machine Learning & Analytics",
+    "platform": "Coursera",
+    "skills": [
+      "Python",
+      "Data Analytics",
+      "Machine Learning"
+    ],
+    "level": "Intermediate",
+    "duration": "35 hours",
+    "rating": 4.9,
+    "priceType": "Paid",
+    "url": "https://coursera.org",
+    "careerCategory": "Data Science & Analytics",
+    "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_sqk84j6vw",
+    "createdAt": "2026-10-13T16:54:29.912Z",
+    "updatedAt": "2026-10-13T16:54:29.912Z",
+    "id": "crs_aws_devops",
+    "title": "AWS Certified Solutions Architect & Docker DevOps",
+    "platform": "Udemy",
+    "skills": [
+      "Cloud Computing (AWS/Azure)",
+      "Docker & Kubernetes",
+      "CI/CD Pipelines"
+    ],
+    "level": "Intermediate",
+    "duration": "48 hours",
+    "rating": 4.8,
+    "priceType": "Paid",
+    "url": "https://udemy.com",
+    "careerCategory": "Cloud Infrastructure",
+    "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_cpm55v7c3",
+    "createdAt": "2026-10-13T16:54:29.915Z",
+    "updatedAt": "2026-10-13T16:54:29.915Z",
+    "id": "crs_deeplearning",
+    "title": "Deep Learning Specialization by Andrew Ng",
+    "platform": "Coursera",
+    "skills": [
+      "Machine Learning",
+      "PyTorch / TensorFlow",
+      "Python"
+    ],
+    "level": "Advanced",
+    "duration": "80 hours",
+    "rating": 4.95,
+    "priceType": "Free",
+    "url": "https://coursera.org",
+    "careerCategory": "Artificial Intelligence",
+    "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_lh27m7wl5",
+    "createdAt": "2026-10-13T16:54:29.918Z",
+    "updatedAt": "2026-10-13T16:54:29.918Z",
+    "id": "crs_figma_uiux",
+    "title": "Figma UI/UX Design Essentials & Prototype Systems",
+    "platform": "YouTube",
+    "skills": [
+      "Figma / Wireframing",
+      "Design Systems",
+      "User Research & Testing"
+    ],
+    "level": "Beginner",
+    "duration": "18 hours",
+    "rating": 4.85,
+    "priceType": "Free",
+    "url": "https://youtube.com",
+    "careerCategory": "Design & User Experience",
+    "thumbnail": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "_id": "id_9irqjdt2t",
+    "createdAt": "2026-10-13T16:54:29.920Z",
+    "updatedAt": "2026-10-13T16:54:29.920Z",
+    "id": "crs_product_mgmt",
+    "title": "Become a Product Manager | Learn the Skills & Get the Job",
+    "platform": "Udemy",
+    "skills": [
+      "Product Management",
+      "Agile & Scrum",
+      "Leadership"
+    ],
+    "level": "Intermediate",
+    "duration": "22 hours",
+    "rating": 4.75,
+    "priceType": "Paid",
+    "url": "https://udemy.com",
+    "careerCategory": "Product & Strategy",
+    "thumbnail": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=500&auto=format&fit=crop&q=60"
+  }
+]

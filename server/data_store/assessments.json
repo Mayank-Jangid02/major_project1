@@ -1,0 +1,228 @@
+[
+  {
+    "_id": "id_30aanhj1a",
+    "createdAt": "2026-09-24T09:51:23.729Z",
+    "updatedAt": "2026-09-24T09:51:23.729Z",
+    "id": "assess_standard_v1",
+    "title": "CareerPath AI Aptitude & Technical Competency Diagnostic",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which data structure follows the First-In, First-Out (FIFO) principle?",
+        "category": "Technical Knowledge",
+        "options": [
+          "Stack",
+          "Queue",
+          "Binary Tree",
+          "Graph"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Queues process elements in the order they arrive (First In First Out)."
+      },
+      {
+        "id": "q2",
+        "question": "In SQL, which clause is used to filter records AFTER an aggregation operation (GROUP BY)?",
+        "category": "Technical Knowledge",
+        "options": [
+          "WHERE",
+          "HAVING",
+          "ORDER BY",
+          "LIMIT"
+        ],
+        "correctAnswer": 1,
+        "explanation": "HAVING filters aggregate values, whereas WHERE filters individual rows prior to aggregation."
+      },
+      {
+        "id": "q3",
+        "question": "If a train traveling at 60 km/h crosses a 200m platform in 24 seconds, what is the length of the train?",
+        "category": "Quantitative Aptitude",
+        "options": [
+          "150 m",
+          "200 m",
+          "250 m",
+          "300 m"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Speed = 60 * (5/18) = 50/3 m/s. Total distance = speed * time = (50/3)*24 = 400m. Train length = 400 - 200 = 200m."
+      },
+      {
+        "id": "q4",
+        "question": "Complete the series: 3, 7, 15, 31, 63, ?",
+        "category": "Logical Reasoning",
+        "options": [
+          "125",
+          "127",
+          "129",
+          "131"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Each term is (previous * 2) + 1. 63 * 2 + 1 = 127."
+      },
+      {
+        "id": "q5",
+        "question": "What is the primary objective of Supervised Machine Learning?",
+        "category": "Technical Knowledge",
+        "options": [
+          "Clustering unlabelled data points",
+          "Predicting target outcomes using labeled training pairs",
+          "Navigating environments via reward signals",
+          "Compressing high-dimensional data"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Supervised learning trains models on labeled input-output pairs to learn a mapping function."
+      },
+      {
+        "id": "q6",
+        "question": "Choose the sentence with correct grammatical structure and professional clarity:",
+        "category": "Communication",
+        "options": [
+          "Me and him completed the project code yesterday.",
+          "Neither the team lead nor the developers were aware of the server outage.",
+          "The project was finish on time by our team.",
+          "We should of tested the production build earlier."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Choice 2 correctly uses subject-verb agreement with \"neither/nor\"."
+      },
+      {
+        "id": "q7",
+        "question": "In a software team, if a critical bug is discovered 2 hours before release, what is the best initial approach?",
+        "category": "Problem Solving",
+        "options": [
+          "Ignore the bug and release on schedule",
+          "Triage the bug severity with the engineering lead, document impact, and communicate options to stakeholders",
+          "Blame the developer who wrote the feature",
+          "Cancel the entire project indefinitely"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Systematic triage and transparent stakeholder communication is standard engineering practice."
+      },
+      {
+        "id": "q8",
+        "question": "What does the time complexity O(log N) represent in Binary Search?",
+        "category": "Technical Knowledge",
+        "options": [
+          "Linear time growth",
+          "Constant time growth",
+          "Logarithmic reduction of search space by half each iteration",
+          "Quadratic time growth"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Binary Search halves the search space at each step, yielding logarithmic logarithmic complexity."
+      }
+    ]
+  },
+  {
+    "_id": "id_db8q0yczi",
+    "createdAt": "2026-10-13T16:54:29.923Z",
+    "updatedAt": "2026-10-13T16:54:29.923Z",
+    "id": "assess_standard_v1",
+    "title": "CareerPath AI Aptitude & Technical Competency Diagnostic",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which data structure follows the First-In, First-Out (FIFO) principle?",
+        "category": "Technical Knowledge",
+        "options": [
+          "Stack",
+          "Queue",
+          "Binary Tree",
+          "Graph"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Queues process elements in the order they arrive (First In First Out)."
+      },
+      {
+        "id": "q2",
+        "question": "In SQL, which clause is used to filter records AFTER an aggregation operation (GROUP BY)?",
+        "category": "Technical Knowledge",
+        "options": [
+          "WHERE",
+          "HAVING",
+          "ORDER BY",
+          "LIMIT"
+        ],
+        "correctAnswer": 1,
+        "explanation": "HAVING filters aggregate values, whereas WHERE filters individual rows prior to aggregation."
+      },
+      {
+        "id": "q3",
+        "question": "If a train traveling at 60 km/h crosses a 200m platform in 24 seconds, what is the length of the train?",
+        "category": "Quantitative Aptitude",
+        "options": [
+          "150 m",
+          "200 m",
+          "250 m",
+          "300 m"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Speed = 60 * (5/18) = 50/3 m/s. Total distance = speed * time = (50/3)*24 = 400m. Train length = 400 - 200 = 200m."
+      },
+      {
+        "id": "q4",
+        "question": "Complete the series: 3, 7, 15, 31, 63, ?",
+        "category": "Logical Reasoning",
+        "options": [
+          "125",
+          "127",
+          "129",
+          "131"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Each term is (previous * 2) + 1. 63 * 2 + 1 = 127."
+      },
+      {
+        "id": "q5",
+        "question": "What is the primary objective of Supervised Machine Learning?",
+        "category": "Technical Knowledge",
+        "options": [
+          "Clustering unlabelled data points",
+          "Predicting target outcomes using labeled training pairs",
+          "Navigating environments via reward signals",
+          "Compressing high-dimensional data"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Supervised learning trains models on labeled input-output pairs to learn a mapping function."
+      },
+      {
+        "id": "q6",
+        "question": "Choose the sentence with correct grammatical structure and professional clarity:",
+        "category": "Communication",
+        "options": [
+          "Me and him completed the project code yesterday.",
+          "Neither the team lead nor the developers were aware of the server outage.",
+          "The project was finish on time by our team.",
+          "We should of tested the production build earlier."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Choice 2 correctly uses subject-verb agreement with \"neither/nor\"."
+      },
+      {
+        "id": "q7",
+        "question": "In a software team, if a critical bug is discovered 2 hours before release, what is the best initial approach?",
+        "category": "Problem Solving",
+        "options": [
+          "Ignore the bug and release on schedule",
+          "Triage the bug severity with the engineering lead, document impact, and communicate options to stakeholders",
+          "Blame the developer who wrote the feature",
+          "Cancel the entire project indefinitely"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Systematic triage and transparent stakeholder communication is standard engineering practice."
+      },
+      {
+        "id": "q8",
+        "question": "What does the time complexity O(log N) represent in Binary Search?",
+        "category": "Technical Knowledge",
+        "options": [
+          "Linear time growth",
+          "Constant time growth",
+          "Logarithmic reduction of search space by half each iteration",
+          "Quadratic time growth"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Binary Search halves the search space at each step, yielding logarithmic logarithmic complexity."
+      }
+    ]
+  }
+]
